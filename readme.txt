@@ -1,5 +1,5 @@
 This project is a part of an online tutorial demonstrating how to use use GraphQL with React.js and Node.js
-(for beginners). The tutorial can be found at : https://topcoded.com/javascript/graphql-with-mern-stack-made-simple-for-complete-beginners/
+(for beginners). The tutorial can be found at : https://topcoded.com/graphql/graphql-with-react-js-and-node-js-made-simple-part-1-of-2/
 
 To check the final product in action, visit : https://thawing-mesa-74505.herokuapp.com/
 
